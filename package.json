@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ayan4m1 <andrew@bulletlogic.com>",
   "license": "MIT",
   "dependencies": {
-    "johnny-five": "^1.4.0"
+    "johnny-five": "^1.4.0",
+    "raspi-io": "^11.0.0"
   }
 }
