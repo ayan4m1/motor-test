@@ -10,7 +10,9 @@
   "author": "ayan4m1 <andrew@bulletlogic.com>",
   "license": "MIT",
   "dependencies": {
-    "johnny-five": "^1.4.0",
+    "johnny-five": "^1.5.0"
+  },
+  "optionalDependencies": {
     "raspi-io": "^11.0.0"
   }
 }
